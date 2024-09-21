@@ -61,13 +61,13 @@ Esses relatórios precisam ser analisados e baixados regularmente pelas operador
 ## Imagens do Processo
 
 - Tela de Login da ANS
-![Tela de Login](imgs\login.png)
+![Tela de Login](imgs/login.png)
 
 - Interface da Ferramenta
-![Interface da Ferramenta](imgs\interface.png)
+![Interface da Ferramenta](imgs/interface.png)
 
 - Relatórios Disponíveis para Download
-![Relatórios ABI](imgs\relatorios.png)
+![Relatórios ABI](imgs/relatorios.png)
 
 ## Contribuições
 
