@@ -61,13 +61,13 @@ Esses relatórios precisam ser analisados e baixados regularmente pelas operador
 ## Imagens do Processo
 
 - Tela de Login da ANS
-![Tela de Login](C:\Users\lucas\OneDrive - HAPVIDA ASSISTÊNCIA MÉDICA LTDA\webscrapping_relat-rioans-main\output\imgs\login.png)
+![Tela de Login](.imgs\login.png)
 
 - Interface da Ferramenta
-![Interface da Ferramenta](C:\Users\lucas\OneDrive - HAPVIDA ASSISTÊNCIA MÉDICA LTDA\webscrapping_relat-rioans-main\output\imgs\interface.png)
+![Interface da Ferramenta](.imgs\interface.png)
 
 - Relatórios Disponíveis para Download
-![Relatórios ABI](C:\Users\lucas\OneDrive - HAPVIDA ASSISTÊNCIA MÉDICA LTDA\webscrapping_relat-rioans-main\output\imgs\relatorios.png)
+![Relatórios ABI](.imgs\relatorios.png)
 
 ## Contribuições
 
